@@ -1,2 +1,1 @@
-# pensamentocomputacional
-procurando uma gatinha 
+# 1apensamento
